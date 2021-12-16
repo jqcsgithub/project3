@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>barrack.png</file>
+        <file>cancel.png</file>
+        <file>castle.png</file>
+        <file>coins.png</file>
+        <file>elven-castle.png</file>
+        <file>evil-tree.png</file>
+        <file>goblin-camp.png</file>
+        <file>golem.png</file>
+        <file>great-pyramid.png</file>
+        <file>guardian.png</file>
+        <file>hammer-nails.png</file>
+        <file>magic-gate.png</file>
+        <file>minion.png</file>
+        <file>plain-square.png</file>
+        <file>select.png</file>
+        <file>selection.png</file>
+        <file>spectre.png</file>
+        <file>spider.png</file>
+        <file>square.png</file>
+        <file>stone-tower.png</file>
+        <file>tesla-turret.png</file>
+        <file>trap.png</file>
+        <file>wyvern.png</file>
+        <file>fire-ring.png</file>
+        <file>arrow.png</file>
+        <file>tesla-coil.png</file>
+        <file>mage-tower.png</file>
+        <file>ray.png</file>
+        <file>blast.png</file>
+        <file>heart.png</file>
+        <file>level.png</file>
+        <file>power.png</file>
+        <file>range.png</file>
+        <file>interval.png</file>
+        <file>price-tag.png</file>
+        <file>shield.png</file>
+        <file>guard-health.png</file>
+        <file>red-square.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file>map.txt</file>
+    </qresource>
+</RCC>
